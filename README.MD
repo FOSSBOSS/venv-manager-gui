@@ -1,6 +1,7 @@
 # Python Virtual Environment Manager GUI
 
 This application provides a graphical user interface for managing Python virtual environments. It allows users to create, inspect, and manage Python environments and their packages.
+I wanted a version that wouldnt require addtional packages outside of those included in python3-full. 
 
 ## Screenshot
 
@@ -8,6 +9,7 @@ This application provides a graphical user interface for managing Python virtual
 
 ## Features
 
+- Locate and retain virtual enviornments
 - List all available Python environments (virtual environments)
 - Display detailed information about each environment
 - Create new virtual environments 
@@ -16,6 +18,7 @@ This application provides a graphical user interface for managing Python virtual
 ## Prerequisites
 
 - Python3-full
+- linux
 
 ## Installation
 
