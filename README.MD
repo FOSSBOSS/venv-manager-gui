@@ -1,6 +1,6 @@
 # Python Virtual Environment Manager GUI
 
-This application provides a graphical user interface for managing Python virtual environments. It allows users to create, delete, and manage Python environments and their packages.
+This application provides a graphical user interface for managing Python virtual environments. It allows users to create, inspect, and manage Python environments and their packages.
 
 ## Screenshot
 
