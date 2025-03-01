@@ -1,0 +1,10 @@
+So when you create a virtual enviornment, it makes a config file in the $PWD, but makes a vm in $HOME. or something like that. 
+it makes it a little confussing I guess. If you launch the selcted VM, it will run it fine, but VMs are not stored in project folders... which IDK, 
+I kinda feel like Vms in project files are how things get so disorganized anyway.  but I will investigate fixing that. 
+
+Refresh doesnt update the locate database, which means if its not found the first time around, refresh wont find anything additional.
+L> same same for Search Sytem.
+
+Launch Terminal launches the VM in the selected location, but doesnt init that VM. 
+
+might combine refresh and search system functions to a single function / button.  Then change refresh to an export button. 
