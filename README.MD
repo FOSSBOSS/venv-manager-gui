@@ -29,6 +29,8 @@ The GUI will open, allowing you to:
 - Select and view information about different Python environments
 - Create new virtual environments
 - locate existing environments
+- export a virtual environment
+- import a virtual environment 
 
 ## Contributing
 
